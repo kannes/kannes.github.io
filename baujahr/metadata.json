@@ -1,0 +1,12 @@
+{
+    "bounds": "9.7263,53.3903,10.312,53.7207",
+    "center": "9.9873,53.5485,11",
+    "minzoom": "11",
+    "maxzoom": "16",
+    "name": "test",
+    "description": "",
+    "legend": "",
+    "attribution": "",
+    "template": "{{#__location__}}{{/__location__}}{{#__teaser__}}First year:\n{{{yearfirst}}}\nLast year:\n{{{yearlast}}}\n{{/__teaser__}}{{#__full__}}{{/__full__}}",
+    "version": "1.0.0"
+}
