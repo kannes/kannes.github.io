@@ -1,0 +1,10 @@
+{
+    "name": "srtm+100m",
+    "description": "Created with QTiles",
+    "format": "jpg",
+    "minZoom": "0",
+    "maxZoom": "17",
+    "type": "baselayer",
+    "version": "1.1",
+    "bounds": "9.67666646102,53.3899752658,10.3858283024,53.746752922"
+}
